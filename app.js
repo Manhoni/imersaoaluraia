@@ -34,11 +34,10 @@ function pesquisar() {
             <a href=${dado.link} target="_blank">Mais informações</a>
           </div>`;
     }
+  }
 
-    if (!resultados) {
-      resultados = "<p>Nada foi encontrado</p>"
-    }
-
+  if (!resultados) {
+    resultados = "<p>Nada foi encontrado</p>"
   }
 
   // Atualiza o conteúdo HTML da seção com os resultados da pesquisa
