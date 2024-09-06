@@ -11,4 +11,4 @@ Este projeto web é um buscador simples de atletas brasileiros. O usuário pode 
 ## Como executar o projeto
 1. **Clone o repositório:**
    ```bash
-   git clone [URL inválido removido]
+   git clone github.com/Manhoni/imersaoaluraia
