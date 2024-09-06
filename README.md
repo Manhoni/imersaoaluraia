@@ -8,6 +8,9 @@ Este projeto web é um buscador simples de atletas brasileiros. O usuário pode 
 * **CSS:** Estilização da página, definindo layout, cores e fontes.
 * **JavaScript:** Lógica para a funcionalidade de busca, manipulação do DOM e exibição dos resultados.
 
+## Link da Vercel para apreciação do projeto
+https://buscadoraeatletas.vercel.app/
+
 ## Como executar o projeto
 1. **Clone o repositório:**
    ```bash
